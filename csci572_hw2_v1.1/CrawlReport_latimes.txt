@@ -1,0 +1,41 @@
+Name: Guangyuan Zhao
+USC ID: 6244177719
+News site crawled: latimes.com
+Number of threads: 12
+
+Fetch Statistics:
+=================
+# fetches attempted: 19977
+# fetches succeeded: 19697
+# fetches failed or aborted: 280
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2997762
+# unique URLs extracted: 363672
+# unique URLs within News Site: 201585
+# unique URLs outside News Site: 162087
+
+Status Codes:
+=============
+200 OK: 19697
+301 Moved Permanently: 135
+302 Found: 38
+307 Temporary Redirect: 86
+404 Not Found: 21
+
+File Sizes:
+===========
+< 1KB: 28
+1KB ~ <10KB: 209
+10KB ~ <100KB: 837
+100KB ~ <1MB: 17592
+>= 1MB: 71
+
+Content Types:
+==============
+text/html: 18301
+image/png: 310
+image/jpeg: 108
+image/svg+xml: 16
+image/gif: 2
